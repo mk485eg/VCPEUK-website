@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fbfbfd;
+  }
+
+
+  
+  .main {
+    padding: 16px;
+    margin-bottom: 30px;
+  }
+  
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    
+    height: 50px;
+    
+  }
+
+  .cinfo{
+    margin: 40px 0px 40px 0px;
+    background-color: #f2f0e8;
+   
+
+  }
+  h6{
+    color:darkgoldenrod;
+  }
+  .ccinfo{
+    margin: 40px 0px 40px 0px;
+  }
+  .fform{
+    margin: 40px 0px 40px 0px; 
+  }
